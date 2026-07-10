@@ -28,34 +28,34 @@ I do not claim ownership of the mappings, these tinys are licensed under the MCP
 | 1.13-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
 | 1.12.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.12.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
-| 1.12-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.11.2-mcp.tiny | MCPArchive (MCPPack) | |
+| 1.12-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.11.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.11.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
-| 1.11-mcp.tiny | MCPArchive (MCPPack) | |
+| 1.11-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.10.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
-| 1.10-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.9.4-mcp.tiny | MCPArchive (MCPPack) | |
+| 1.10-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.9.4-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.9.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
-| 1.9-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.8.8-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.8-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.7.10-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.7.9-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.7.2-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.6.3-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.6.2-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.6.1-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.6-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.5.2-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.5.1-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.5-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.7-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.6-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.5-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.4-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.3-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.2-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4.1-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.4-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.3.2-mcp.tiny | MCPArchive (MCPPack) | |
-| 1.3.1-mcp.tiny | MCPArchive (MCPPack) | |
+| 1.9-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.8.8-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.8-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.7.10-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.7.9-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.7.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.6.3-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.6.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.6.1-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.6-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.5.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.5.1-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.5-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.7-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.6-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.5-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.4-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.3-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4.1-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.4-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.3.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.3.1-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
