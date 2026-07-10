@@ -6,7 +6,9 @@ Most of these tiny are from [MCP_Archive](https://github.com/GrylaMC/MCP_Archive
 
 I do not claim ownership of the mappings, these tinys are licensed under the MCP License
 
+-----------------
 | Mapping | From | Extra Notes |
+|-----------------|-----------------|-----------------|
 | 1.16.5-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
 | 1.16.4-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
 | 1.16.3-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
