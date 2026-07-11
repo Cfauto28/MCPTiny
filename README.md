@@ -26,18 +26,18 @@ I do not claim ownership of the mappings, these tinys are licensed under the MCP
 | 1.13.2-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
 | 1.13.1-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
 | 1.13-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.12.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.12.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.12.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
-| 1.12-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
-| 1.11.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.12-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
+| 1.11.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.11.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.11-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.10.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.10-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
-| 1.9.4-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.9.4-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.9.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.9-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
-| 1.8.8-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+| 1.8.8-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.8-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.7.10-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.7.9-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
