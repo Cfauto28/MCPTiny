@@ -1,31 +1,28 @@
-# MCP Tiny
+# SRG Tiny
 
-A repo containing MCP mappings converted into the more modern Fabric Tiny format
+A repo containing various old SRG mappings converted into the more modern Fabric Tiny format
 
-Most of these tiny are from [MCP_Archive](https://github.com/GrylaMC/MCP_Archive)
-
-I do not claim ownership of the mappings, these tinys are licensed under the MCP License
-
+## MCP mappings table
 -----------------
 | Mapping | From | Extra Notes |
 |-----------------|-----------------|-----------------|
-| 1.16.5-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.16.4-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.16.3-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.16.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.16.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.16-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.15.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBOTFORGE) | |
-| 1.15.1-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.15-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.14.4-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.14.3-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.14.2-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.14.1-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.14-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.13.2-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.13.1-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
-| 1.13-mcp.tiny | MCPArchive (MCPBOTFORGE) | Seems to have some errors |
+| 1.16.5-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.16.4-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.16.3-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.16.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.16.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.16-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.15.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
+| 1.15.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.15-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14.4-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14.3-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14.2-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.13.2-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.13.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.13-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.12.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.12.1-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
 | 1.12-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
@@ -59,3 +56,17 @@ I do not claim ownership of the mappings, these tinys are licensed under the MCP
 | 1.4-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.3.2-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
 | 1.3.1-mcp.tiny | MCPArchive (MCPPack) | Seems to have some errors |
+
+## Bukkit mappings table
+| Mapping | From | Extra Notes |
+|-----------------|-----------------|-----------------|
+| 1.5.2-bukkit.tiny | MinecraftRemapping | |
+| 1.5.1-bukkit.tiny | MinecraftRemapping | |
+| 1.5-bukkit.tiny | MinecraftRemapping | |
+| 1.4.7-bukkit.tiny | MinecraftRemapping | |
+| 1.4.6-bukkit.tiny | MinecraftRemapping | |
+| 1.4.5-bukkit.tiny | MinecraftRemapping | |
+| 1.4.4-bukkit.tiny | MinecraftRemapping | |
+| 1.4.2-bukkit.tiny | MinecraftRemapping | |
+| 1.3.2-bukkit.tiny | MinecraftRemapping | |
+| 1.3.1-bukkit.tiny | MinecraftRemapping | |
