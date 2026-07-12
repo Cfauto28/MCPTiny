@@ -1,4 +1,4 @@
-v1	intermediary	named
+v1	official	named
 CLASS	a	net/minecraft/server/EnumChatFormat
 FIELD	a	La;	a	BLACK
 FIELD	a	La;	b	DARK_BLUE

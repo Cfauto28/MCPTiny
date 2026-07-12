@@ -1,4 +1,4 @@
-v1	intermediary	named
+v1	official	named
 CLASS	a	net/minecraft/server/CrashReport
 CLASS	aa	net/minecraft/server/CommandTime
 CLASS	aab	net/minecraft/server/WorldGenJungleTempleUnknown
