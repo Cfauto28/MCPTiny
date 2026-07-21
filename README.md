@@ -15,12 +15,12 @@ A repo containing various old SRG mappings converted into the more modern Fabric
 | 1.15.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge) | |
 | 1.15.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.15-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
-| 1.14.4-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.14.4-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge | |
 | 1.14.3-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.14.2-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.14.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.14-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
-| 1.13.2-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
+| 1.13.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPBot+Forge | |
 | 1.13.1-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.13-mcp.tiny | MCPArchive (MCPBot+Forge) | Seems to have some errors |
 | 1.12.2-mcp.tiny | MCPTiny (client_ro_cls.srg) (MCPPack) | |
